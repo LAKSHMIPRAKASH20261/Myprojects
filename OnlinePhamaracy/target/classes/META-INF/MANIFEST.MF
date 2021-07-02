@@ -1,6 +1,10 @@
 Manifest-Version: 1.0
-Build-Jdk-Spec: 16
 Implementation-Title: OnlinePhamaracy
 Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lp20261
+Implementation-Vendor-Id: com.ojas
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://spring.io/projects/spring-boot/OnlinePhama
+ racy
 Created-By: Maven Integration for Eclipse
 
